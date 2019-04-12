@@ -1,5 +1,5 @@
 [dustymabe-coreos-installer]
-baseurl=https://copr-be.cloud.fedoraproject.org/results/dustymabe/coreos-installer/fedora-$releasever-$basearch/
+baseurl=https://copr-be.cloud.fedoraproject.org/results/dustymabe/coreos-installer/fedora-$releasever-x86_64/
 type=rpm-md
 skip_if_unavailable=True
 gpgcheck=1
